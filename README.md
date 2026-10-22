@@ -171,4 +171,5 @@ Released under the [MIT License](LICENSE).
 ## 👩‍💻 Author
 
 **Mallareddygari Gayathri**
+
 [GitHub](https://github.com/Gayathri-Reddy874) · [LinkedIn](https://linkedin.com/in/mallareddygari-gayathri)
